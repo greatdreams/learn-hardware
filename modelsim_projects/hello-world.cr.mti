@@ -1,0 +1,37 @@
+E:/learn-hardware/modelsim_projects/my_nor.v {1 {vlog -work work -vopt -stats=none E:/learn-hardware/modelsim_projects/my_nor.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module my_nor
+
+Top level modules:
+	my_nor
+
+} {} {}} E:/learn-hardware/modelsim_projects/Fulladd.v {2 {vlog -work work -vopt -stats=none E:/learn-hardware/modelsim_projects/Fulladd.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Fulladd
+** Warning: E:/learn-hardware/modelsim_projects/Fulladd.v(13): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+Top level modules:
+	Fulladd
+
+} {} {}} E:/learn-hardware/modelsim_projects/my_nor_tb.v {1 {vlog -work work -vopt -stats=none E:/learn-hardware/modelsim_projects/my_nor_tb.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module stimulus
+
+Top level modules:
+	stimulus
+
+} {} {}} E:/learn-hardware/modelsim_projects/my_mux.v {1 {vlog -work work -vopt -stats=none E:/learn-hardware/modelsim_projects/my_mux.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module my_mux
+
+Top level modules:
+	my_mux
+
+} {} {}} E:/learn-hardware/modelsim_projects/Fulladd_test.v {1 {vlog -work work -vopt -stats=none E:/learn-hardware/modelsim_projects/Fulladd_test.v
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Fulladd_test
+
+Top level modules:
+	Fulladd_test
+
+} {} {}}

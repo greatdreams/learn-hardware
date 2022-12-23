@@ -1,0 +1,22 @@
+// ?????????
+module stimulus;
+reg A, B;
+wire  OUT;
+
+// ??????my_nor
+my_nor n1(OUT, A, B);
+
+// ????
+initial
+begin
+	// ?????????????
+	A=1'b0; B=1'b0;
+	#5 A=1'b1; B=1'b0;
+	#5 A=1'b0; B=1'b1;
+	#5 A=1'b1; B=1'b1;
+end
+
+initial 
+$monitor($time, "OUT=%b, A=%b, B=%b", OUT, A,B);
+
+endmodule

@@ -1,0 +1,3 @@
+module my_nor(out, a,b)
+
+endmodule

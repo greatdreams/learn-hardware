@@ -1,0 +1,167 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/create_cpu_projects/modelsim_projects/chapter5
+T_opt
+!s110 1670061447
+VRLN[M]LjDci1Bd7cAMYMD2
+04 4 4 work test fast 0
+=1-080029c19738-638b1d86-2ca-24f0
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;10.5;63
+R0
+T_opt1
+!s110 1671790969
+VNAj:L1L7W]nITeQB4jdh00
+04 9 4 work my_mux_tb fast 0
+=1-080029c19738-63a58179-114-12e4
+R1
+R2
+n@_opt1
+R3
+T_opt2
+!s110 1671788826
+Vb>X@^KMcZA7@Ijm_?2kh61
+04 8 4 work stimulus fast 0
+=1-080029c19738-63a5791a-1b2-2a8c
+R1
+R2
+n@_opt2
+R3
+R0
+vFulladd
+Z4 !s110 1671790931
+!i10b 1
+!s100 ^bPWDeh1AmVGg9=`O803S3
+IkJXdQozBJ?KQdM6b?;IhF3
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 dE:/learn-hardware/modelsim_projects
+w1670059567
+8E:/learn-hardware/modelsim_projects/Fulladd.v
+FE:/learn-hardware/modelsim_projects/Fulladd.v
+L0 1
+Z7 OL;L;10.5;63
+r1
+!s85 0
+31
+Z8 !s108 1671790931.000000
+!s107 E:/learn-hardware/modelsim_projects/Fulladd.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/learn-hardware/modelsim_projects/Fulladd.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+n@fulladd
+vFulladd_test
+R4
+!i10b 1
+!s100 EjgVSTC9R[D`ZbUZkoTEZ3
+I2oX@BfcgP2H0D@CSIJz6g1
+R5
+R6
+w1670064657
+8E:/learn-hardware/modelsim_projects/Fulladd_test.v
+FE:/learn-hardware/modelsim_projects/Fulladd_test.v
+L0 1
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/learn-hardware/modelsim_projects/Fulladd_test.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/learn-hardware/modelsim_projects/Fulladd_test.v|
+!i113 0
+R9
+R2
+n@fulladd_test
+vmy_mux
+Z10 !s110 1671790932
+!i10b 1
+!s100 7JB>e>6;[UJN72cn6^d^>0
+IC4Yh8X=9RJFj8Md=B733P1
+R5
+R6
+w1671790672
+8E:/learn-hardware/modelsim_projects/my_mux.v
+FE:/learn-hardware/modelsim_projects/my_mux.v
+L0 2
+R7
+r1
+!s85 0
+31
+Z11 !s108 1671790932.000000
+!s107 E:/learn-hardware/modelsim_projects/my_mux.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/learn-hardware/modelsim_projects/my_mux.v|
+!i113 0
+R9
+R2
+vmy_mux_tb
+R10
+!i10b 1
+!s100 6Z19kXQNgfcSb<0<U4R]G2
+IV9XE8ZG<cgeV7Z<^SeoP12
+R5
+R6
+w1671790923
+8E:/learn-hardware/modelsim_projects/my_mux_tb.v
+FE:/learn-hardware/modelsim_projects/my_mux_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R11
+!s107 E:/learn-hardware/modelsim_projects/my_mux_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/learn-hardware/modelsim_projects/my_mux_tb.v|
+!i113 0
+R9
+R2
+vmy_nor
+R10
+!i10b 1
+!s100 Nh``2cO8LPbUF]eDNde]R2
+I@c>UCE:dL4>HVm8E:nl7^1
+R5
+R6
+w1671788618
+8E:/learn-hardware/modelsim_projects/my_nor.v
+FE:/learn-hardware/modelsim_projects/my_nor.v
+L0 2
+R7
+r1
+!s85 0
+31
+R8
+!s107 E:/learn-hardware/modelsim_projects/my_nor.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/learn-hardware/modelsim_projects/my_nor.v|
+!i113 0
+R9
+R2
+vstimulus
+R10
+!i10b 1
+!s100 Ln_iG?aD?V5@o[0WNoEI32
+IcYgg0`3TDd2eBnQLeRH441
+R5
+R6
+w1671788784
+8E:/learn-hardware/modelsim_projects/my_nor_tb.v
+FE:/learn-hardware/modelsim_projects/my_nor_tb.v
+L0 2
+R7
+r1
+!s85 0
+31
+R11
+!s107 E:/learn-hardware/modelsim_projects/my_nor_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/learn-hardware/modelsim_projects/my_nor_tb.v|
+!i113 0
+R9
+R2
